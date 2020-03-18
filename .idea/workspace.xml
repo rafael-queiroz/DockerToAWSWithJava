@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="115d0127-8fb0-4cde-969d-2fbfa9c7720e" name="Default Changelist" comment="" />
+    <list default="true" id="115d0127-8fb0-4cde-969d-2fbfa9c7720e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MY_KEY_PAIR.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MY_KEY_PAIR.ppk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/erudio/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/erudio/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/classes/br/com/erudio/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/classes/br/com/erudio/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/docker-to-aws-with-java-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/docker-to-aws-with-java-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/docker-to-aws-with-java-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/docker-to-aws-with-java-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/surefire-reports/TEST-br.com.erudio.converter.DozerConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/surefire-reports/br.com.erudio.converter.DozerConverterTest.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +34,7 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="jdkForImporter" value="1.8" />
+        <option name="jdkForImporter" value="11" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -28,19 +43,22 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="1ZIlTruHxkULVX7urpyOFNyynqU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,10 +73,22 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584550092273">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584561915446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/15.-1080.1280.680@0.0.1920.1040" timestamp="1584561915446" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584561914821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/15.-1080.1280.680@0.0.1920.1040" timestamp="1584561914821" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584561766881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/15.-1080.1280.680@0.0.1920.1040" timestamp="1584561766881" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584550092273" />
   </component>
 </project>

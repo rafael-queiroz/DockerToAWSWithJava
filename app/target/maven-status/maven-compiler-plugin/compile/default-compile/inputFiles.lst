@@ -1,35 +1,35 @@
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\WebConfig.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\converter\DozerConverter.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\BookRepository.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtTokenFilter.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\InvalidJwtAuthenticationException.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\FileStorageService.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\SecurityConfig.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\AuthController.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\User.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\BookController.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\FileStorageException.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\FileStorageConfig.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Permission.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\UserRepository.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\AccountCredentialsVO.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\UploadFileResponseVO.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\BookVO.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\PersonVO.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\Startup.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\PersonRepository.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\ResourceNotFoundException.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Book.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtConfigurer.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\FileController.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\SwaggerConfig.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\PersonController.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\handler\CustomizedResponseEntityExceptionHandler.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtTokenProvider.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\serialization\converter\YamlJackson2HttpMessageConverter.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\MyFileNotFoundException.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\ExceptionResponse.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Person.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\BookServices.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\UserServices.java
-C:\Cursos\Udemy\Docker + AWS + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\PersonServices.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\BookServices.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\Startup.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\FileStorageService.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\SecurityConfig.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Person.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\AccountCredentialsVO.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtTokenFilter.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\UserServices.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\User.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\BookRepository.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\serialization\converter\YamlJackson2HttpMessageConverter.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\MyFileNotFoundException.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\FileStorageConfig.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Permission.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\UserRepository.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\BookVO.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\SwaggerConfig.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\model\Book.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\ResourceNotFoundException.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\ExceptionResponse.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\FileController.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\InvalidJwtAuthenticationException.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\PersonController.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\PersonVO.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\data\vo\v1\UploadFileResponseVO.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\config\WebConfig.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\converter\DozerConverter.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\handler\CustomizedResponseEntityExceptionHandler.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\AuthController.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\repository\PersonRepository.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\services\PersonServices.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtTokenProvider.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\controller\BookController.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\exception\FileStorageException.java
+C:\Cursos\Udemy\Docker + AWS + TravisCi + Java\DockerToAWSWithJava\app\src\main\java\br\com\erudio\security\jwt\JwtConfigurer.java
